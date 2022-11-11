@@ -1,2 +1,3 @@
 # Zuri_JavaScript_Task
-Image Carousel/Sliders
+&hearts; Image Carousel/Sliders <br />
+&hearts; Designed with HTML, CSS and JavaScript
